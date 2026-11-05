@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Datasets and model weights
+data/
+results/
+models/
